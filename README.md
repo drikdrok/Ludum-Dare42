@@ -1,2 +1,2 @@
 # Ludum-Dare42
-Entry for Ludum Dare 42
+Made in 48 hours for Ludum Dare 42
